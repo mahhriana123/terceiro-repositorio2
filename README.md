@@ -1,2 +1,2 @@
-# terceiro-repositorio2
-Repositório criado para estudos de programação em linguagem JavaScript
+# terceiro-repositorio2-3E
+Repositório criado para estudos de programação em linguagem JavaScript.
